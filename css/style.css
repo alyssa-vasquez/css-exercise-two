@@ -1,6 +1,37 @@
 body {
-  background-color: #ff0000;
+  background-color: #f0ffff;
+  background-image:images/bloc logo.png
   color: #0000FF;
+}
+
+figcaption{
+  font-family: sans-serif;
+  line-height:1.25em;
+}
+
+h1 {
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 36px;
+  font-weight:400;
+  line-height:normal;
+  text-transform: capitalize;
+}
+
+h3 {
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight:200;
+  line-height:1.1em;
+}
+
+p {
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight:100;
+  line-height:1.75em;
 }
 
 nav {
